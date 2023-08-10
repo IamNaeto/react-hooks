@@ -13,5 +13,3 @@
 - Create an empty pages folder where we build our react website pages, run `mkdir pages`
 
 - Build app by running `npm run build`
-
-- Create first react app by adding index.js file inside the pages.
