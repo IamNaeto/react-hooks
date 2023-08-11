@@ -1,6 +1,6 @@
 import React, { useRef } from "react";
 
-const ImageToggleOnMouseOver = ({primaryImg, secondaryImg}) => {
+const ImageToggleOnScroll = ({primaryImg, secondaryImg}) => {
     const imageRef = useRef(null);
 
     return (
@@ -18,4 +18,4 @@ const ImageToggleOnMouseOver = ({primaryImg, secondaryImg}) => {
     );
 };
 
-export default ImageToggleOnMouseOver;
+export default ImageToggleOnScroll;
