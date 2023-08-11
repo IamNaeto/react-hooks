@@ -1,2 +1,2 @@
 # Installations
-- Using useref to change the colorization of a picture on mouse over and mouse out
+- Using useeffect, usestate and useref to change the colorization of a picture on scroll
